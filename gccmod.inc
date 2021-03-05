@@ -27,6 +27,7 @@ $(OUTD)/extern.o   \
 $(OUTD)/fastpass.o \
 $(OUTD)/fixup.o    \
 $(OUTD)/fpfixup.o  \
+$(OUTD)/globals.o  \
 $(OUTD)/hll.o      \
 $(OUTD)/input.o    \
 $(OUTD)/invoke.o   \
